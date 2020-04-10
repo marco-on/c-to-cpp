@@ -1,5 +1,5 @@
 //monte carlo simulation
-//simulation random... not deterministic
+//simulation random... not deterministic 
 //University of California Santa Cruz. C++ for C programmers, Part A. Ira Pohl. 1.3. min 4
 #include <stdio.h>
 #include <stdlib.h>
